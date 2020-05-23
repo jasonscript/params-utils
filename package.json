@@ -1,0 +1,19 @@
+{
+  "name": "params-utils",
+  "version": "1.0.0",
+  "description": "utils to handle params",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonscript/params-utils.git"
+  },
+  "author": "jasonscript",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonscript/params-utils/issues"
+  },
+  "homepage": "https://github.com/jasonscript/params-utils#readme"
+}
