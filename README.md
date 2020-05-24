@@ -18,3 +18,10 @@ npm install params-utils --save
 const trimParam = require('params-utils').trimParam
 const result = trimParam(' ,1234, ', [' ', ',']) // 1234
 ```
+
+- **Browser**
+
+```javascript
+import { trimParam } from 'params-utils'
+const result = trimParam(' ,1234, ', [' ', ',']) // 1234
+```
