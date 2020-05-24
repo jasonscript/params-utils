@@ -15,7 +15,7 @@ module.exports = {
         loader: 'babel-loader',
         exclude: /(node_modules|build|coverage)/,
         query: {
-          presets: ['env']
+          presets: ["@babel/preset-env"]
         }
       }
     ]
