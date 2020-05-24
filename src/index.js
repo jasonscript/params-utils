@@ -4,6 +4,4 @@ const paramsUtils = {
   trimParam
 }
 
-export { trimParam }
-
 export default paramsUtils
