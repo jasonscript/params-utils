@@ -1,6 +1,6 @@
 {
   "name": "params-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "utils to handle params",
   "main": "build/main.js",
   "scripts": {
